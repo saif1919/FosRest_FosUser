@@ -92,5 +92,5 @@ fos_user:
     firewall_name: main
     user_class: AppBundle\Entity\User
     from_email:
-        address: "dragonnoir1919@gmail.com"
-        sender_name: "saifeddine123456"
+        address: ""
+        sender_name: ""
